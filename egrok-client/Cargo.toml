@@ -1,5 +1,5 @@
 [package]
-name = "egrok_client" 
+name = "egrok" 
 version = "0.1.0"
 edition = "2021"
 
